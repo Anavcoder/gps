@@ -70,3 +70,6 @@ z-index: 10;
     font-family: 'Pasifico',cursive;
 padding: 50px;
 }
+a {
+    text-decoration: none;
+}
